@@ -1,2 +1,2 @@
 # 3M Advanced Methods for Text as Data: Natural Language Processing
-These files are created by Douglas Rice
+These files are mainly created by Douglas Rice.
